@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WKY0929
-- 👀 I’m interested in 
-- 🌱 I’m currently learning hainan university
+- 👀 I’m interested in enjoying leisure.
+- 🌱 I’m currently learning hainan university.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
