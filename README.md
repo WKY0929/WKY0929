@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @WKY0929
-- 👀 I’m interested in enjoying leisure.
-- 🌱 I’m currently learning bupt.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @WKY0929- 🌱 I’m currently learning BUPT.
 
 <!---
 WKY0929/WKY0929 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
