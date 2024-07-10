@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @WKY0929
-- 🌱 I’m currently learning BUPT.
+- This is My self-intro：
+    Now I work for an Internet company.I like playing games and singing.I will share some ideas in this repo.
 
 <!---
 WKY0929/WKY0929 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
